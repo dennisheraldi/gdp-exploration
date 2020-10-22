@@ -1,4 +1,4 @@
-# Explorasi Google Developer Product: Google Cloud Platform melalui Qwiklabs
+# Eksplorasi Google Developer Product: Google Cloud Platform melalui Qwiklabs
 
 <img width="601" alt="Screenshot_33" src="https://user-images.githubusercontent.com/71638224/96906616-447b2a00-14c4-11eb-8113-6c8ed2046b65.png">
 
