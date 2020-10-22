@@ -1,5 +1,7 @@
 # Explorasi Google Developer Product: Google Cloud Platform melalui Qwiklabs
 
+<img width="601" alt="Screenshot_33" src="https://user-images.githubusercontent.com/71638224/96906616-447b2a00-14c4-11eb-8113-6c8ed2046b65.png">
+
 Sebuah tulisan mengenai hasil eksplorasi menggunakan salah satu Google Developer Product, Qwiklabs untuk mempelajari Google Cloud Platform dalam rangka #JuaraGCP season 4
 <br> <b> oleh: Fachry Dennis Heraldi, NIM: 16520303 </b> <br>
 
